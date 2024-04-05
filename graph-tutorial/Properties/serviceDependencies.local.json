@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: test-mfa-stx-01, Tenant: Televero Health (televerohealth.com - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
