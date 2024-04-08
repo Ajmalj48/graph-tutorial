@@ -8,6 +8,7 @@ namespace graph_tutorial.Controllers
 {
     public class HomeController : BaseController
     {
+        [Authorize]
         public ActionResult Index()
         {
             return View();
